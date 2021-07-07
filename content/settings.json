@@ -1,24 +1,24 @@
 {
-  "store_id": 4299,
-  "name": "zapmedsuprimentos",
   "domain": "zapmedsuprimentos.netlify.app",
-  "short_name": "zapmedsuprimentos",
-  "description": "zapmedsuprimentos",
-  "primary_color": "#222831",
-  "secondary_color": "#393e46",
-  "bg_color": "#ffffff",
+  "currency_symbol": "R$",
+  "primary_color": "#0062f5",
   "theme": {
     "bootswatch": "_",
     "custom": "_"
   },
+  "bg_color": "#ffffff",
+  "repository": "ecomplus-stores/zapmedsuprimentos",
   "logo": "/img/uploads/logo.png",
-  "mini_logo": "",
-  "icon": "/img/icon.png",
-  "large_icon": "/img/large-icon.png",
-  "favicon": "/img/uploads/favicon.png",
+  "name": "luvas e cia",
+  "short_name": "luvas&cia",
   "lang": "pt_br",
   "currency": "BRL",
-  "currency_symbol": "R$",
+  "mini_logo": "",
+  "favicon": "/img/uploads/favicon.png",
   "country_code": "BR",
-  "repository": "ecomplus-stores/zapmedsuprimentos"
+  "secondary_color": "#393e46",
+  "icon": "/img/icon.png",
+  "store_id": 4299,
+  "description": "Luvas&Cia",
+  "large_icon": "/img/large-icon.png"
 }
