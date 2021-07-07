@@ -1,0 +1,37 @@
+{
+  "icons": [
+    {
+      "src": "/icon_512x512.e2f5c9380f3eabc36cbad1b054defabe.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/icon_384x384.060ee7ad8eb0f6151304dd96259fc920.png",
+      "sizes": "384x384",
+      "type": "image/png"
+    },
+    {
+      "src": "/icon_192x192.9e0e4bd17bf7e98381b020d770314568.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/icon_128x128.efeab4cce7e19979fc3e8c92de7870c0.png",
+      "sizes": "128x128",
+      "type": "image/png"
+    },
+    {
+      "src": "/icon_96x96.ef5afdbcc2a782e0b4b85f195d0c4b60.png",
+      "sizes": "96x96",
+      "type": "image/png"
+    }
+  ],
+  "name": "luvas e cia",
+  "short_name": "luvas&cia",
+  "orientation": "portrait",
+  "display": "standalone",
+  "start_url": ".",
+  "description": "Luvas&Cia",
+  "background_color": "#ffffff",
+  "theme_color": "#0062f5"
+}
