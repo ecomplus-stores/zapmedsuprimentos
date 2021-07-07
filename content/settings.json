@@ -8,7 +8,7 @@
   },
   "bg_color": "#ffffff",
   "repository": "ecomplus-stores/zapmedsuprimentos",
-  "logo": "/img/uploads/logo.png",
+  "logo": "/img/uploads/rect859.png",
   "name": "luvas e cia",
   "short_name": "luvas&cia",
   "lang": "pt_br",
@@ -17,8 +17,8 @@
   "favicon": "/img/uploads/favicon.png",
   "country_code": "BR",
   "secondary_color": "#393e46",
-  "icon": "/img/icon.png",
+  "icon": "/img/uploads/logo.png",
   "store_id": 4299,
   "description": "Luvas&Cia",
-  "large_icon": "/img/large-icon.png"
+  "large_icon": "/img/uploads/logo.png"
 }
